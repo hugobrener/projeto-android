@@ -30,7 +30,7 @@ header {
     background-image: linear-gradient(to bottom, var(--cor03), var(--cor05));
     text-align: center;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.575);
-    min-height: 150px;
+    height: 150px;
     padding-top: 40px;
 }
 
